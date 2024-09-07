@@ -6,7 +6,7 @@
 /* BACKGROUND */
 ﻿
 body {
-	background: url('https://ibb.co/1nQkZf0') center center fixed;
+	background: url('https://i.imgur.com/zUdQtVF.jpeg') center center fixed;
 	background-size: 100%;
 	font-family: "Shadows Into Light", cursive;
 	color: #2e2a2b
@@ -508,19 +508,19 @@ table#player img {
 /* CAVE / MOUND IMAGES */
 ﻿
 div.cave-grid>img /* Pregnant Lionesses */ {
-	content: url('https://ibb.co/Yj552gK') !important
+	content: url('https://i.imgur.com/ursafGh.png') !important
 }
 
 a[href$="lionoverview.php?id=297802 ID"]>div.cave-grid>img /* Pride Overview */ {
-	content: url('https://ibb.co/4pkPVkY') !important
+	content: url('https://i.imgur.com/JWtaMNF.png') !important
 }
 ﻿
 a[href$="unsorted.php?id=297802"]>div.cave-grid>img /* Unsorted */ {
-	content: url('https://ibb.co/qCWHGzw') !important
+	content: url('https://i.imgur.com/rbqMrF7.png') !important
 }
 ﻿
 .mound-grid img /* Mound(s) */ {
-	background: url("https://ibb.co/NFcNDyQ");
+	background: url("https://i.imgur.com/2jTosJ4.png");
 	width: 0;
 	height: 0;
 	padding-top: 80px;
